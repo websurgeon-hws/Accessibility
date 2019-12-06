@@ -6,10 +6,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Image(decorative: "character")
-            .resizable()
-            .edgesIgnoringSafeArea(.all)
-            .accessibility(hidden: true)
+        VStack {
+            Text("Your score is")
+            Text("1000")
+                .font(.title)
+        }
+        .accessibilityElement(children: .combine)
     }
 }
 
