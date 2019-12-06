@@ -1,16 +1,9 @@
 
 Resources:
 
-- ales-krivec-15949@2x.jpg
-- ales-krivec-15949@3x.jpg
-- galina-n-189483@2x.jpg
-- galina-n-189483@3x.jpg
-- kevin-horstmann-141705@2x.jpg
-- kevin-horstmann-141705@3x.jpg
-- nicolas-tissot-335096@2x.jpg
-- nicolas-tissot-335096@3x.jpg
+- character
 
-Pictures downloaded from Unsplash. Unsplash filenames are made up of a picture ID and the photographer’s name.
+Photo by AC De Leon on Unsplash
 
 Originals available from https://unsplash.com
 
